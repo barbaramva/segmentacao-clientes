@@ -1,4 +1,4 @@
-# 📊 Segmentação de Clientes para Marketing
+# 📊 Segmentação de Clientes para área de Marketing
 
 Este projeto tem como objetivo analisar uma base de clientes segmentada previamente por clusterização (provavelmente via K-Means) com foco em apoiar estratégias de marketing mais direcionadas. Através do Power BI, foi criado um dashboard que revela padrões de comportamento com base em idade, renda anual e pontuação de gastos.
 
